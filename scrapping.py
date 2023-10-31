@@ -28,4 +28,4 @@ url = "https://www.waheediqbal.info/"  # Replace with the URL of the web page yo
 # Call the function to scrape the web page and output clean text
 scrape_web_page(url)
 
-
+#print("new one")
